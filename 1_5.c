@@ -29,4 +29,5 @@ int problem_5(){
 int main(){
     printf("%d\n",problem_1());
     printf("%d\n",problem_5());
+    return 0;
 }
